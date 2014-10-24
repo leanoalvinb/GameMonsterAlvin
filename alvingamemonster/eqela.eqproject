@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# AlvinGameMonster
+#
+
+projectname: AlvinGameMonster
+vendorid: com.mycompany
+mainmodule: com.mycompany.alvingamemonster
